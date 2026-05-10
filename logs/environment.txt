@@ -1,0 +1,40 @@
+===== Date =====
+Sun May 10 03:32:16 PM CST 2026
+
+===== Current Directory =====
+/root/mini_project2
+
+===== OS Information =====
+Linux iZ2zeart31iubgpbqeonwdZ 5.15.0-174-generic #184-Ubuntu SMP Fri Mar 13 18:41:50 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+
+===== Python Version =====
+Python 3.10.12
+
+===== Ray Version =====
+Ray version: 2.55.1
+
+===== Project Files =====
+./data/iot_logs.csv
+./docs/report_notes_template.md
+./evidence_logs_outputs.zip
+./logs/environment.txt
+./logs/local_mapreduce_run.log
+./logs/mapreduce_outputs.log
+./logs/ray_run.log
+./logs/validation_expected_outputs.log
+./mapreduce/active_device_mapper.py
+./mapreduce/active_device_reducer.py
+./mapreduce/building_status_mapper.py
+./mapreduce/building_status_reducer.py
+./mapreduce/sensor_type_mapper.py
+./mapreduce/sensor_type_reducer.py
+./outputs/abnormal_devices.csv
+./outputs/.gitkeep
+./outputs/sensor_type_count.txt
+./outputs/top10_active_devices.txt
+./outputs/warning_error_by_building.txt
+./ray/abnormal_device_detection.py
+./README.md
+./scripts/oss_commands_template.sh
+./scripts/run_local_mapreduce_tests.sh
+./scripts/validate_outputs.py

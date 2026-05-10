@@ -1,0 +1,51 @@
+===== Expected Sensor Type Counts =====
+air_quality 12661
+door 9246
+energy 5648
+humidity 5757
+motion 5510
+temperature 11178
+
+===== Expected Warning/Error Counts by Building =====
+Arts 657
+Business 707
+Engineering 879
+Library 1622
+Science 2788
+SportsCentre 666
+
+===== Expected Top 10 Active Devices =====
+D0302 695
+D0306 678
+D0315 674
+D0307 673
+D0310 670
+D0312 668
+D0314 668
+D0311 663
+D0304 657
+D0313 657
+
+===== Expected Abnormal Device Rows Preview =====
+D0001,Library,repeated errors
+D0001,Library,repeated high temperature
+D0002,Library,repeated errors
+D0002,Library,repeated high temperature
+D0003,Library,repeated errors
+D0003,Library,repeated high temperature
+D0004,Library,repeated errors
+D0004,Library,repeated high temperature
+D0005,Library,repeated errors
+D0005,Library,repeated high temperature
+D0006,Library,repeated errors
+D0006,Library,repeated high temperature
+D0007,Library,repeated errors
+D0007,Library,repeated high temperature
+D0008,Library,repeated errors
+D0008,Library,repeated high temperature
+D0009,Library,low battery
+D0009,Library,repeated errors
+D0009,Library,repeated high temperature
+D0010,Library,repeated errors
+
+Expected abnormal-device rows excluding header: 243

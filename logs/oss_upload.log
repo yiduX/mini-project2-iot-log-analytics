@@ -1,0 +1,10 @@
+Uploading dataset to Alibaba Cloud OSS...
+Success: Total 1 file, size 3616957 B, Upload done:(1 objects, 3616957 B), avg 23.173 MiB/s
+
+0.149594(s) elapsed
+Listing uploaded object...
+LastModifiedTime                   Size(B)     StorageClass   ETAG                                  ObjectName
+2026-05-10 16:02:26 +0800 CST      3616957         Standard   ABD06B381295FFF2E091988C64ED001A      oss://comp3006j-mini-project2-18/miniproject2/input/iot_logs.csv
+Object Number is: 1
+
+0.064101(s) elapsed

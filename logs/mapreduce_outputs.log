@@ -1,0 +1,27 @@
+===== Sensor Type Count =====
+air_quality 12661
+door 9246
+energy 5648
+humidity 5757
+motion 5510
+temperature 11178
+
+===== Warning/Error Count by Building =====
+Arts 657
+Business 707
+Engineering 879
+Library 1622
+Science 2788
+SportsCentre 666
+
+===== Top 10 Most Active Devices =====
+D0302 695
+D0306 678
+D0315 674
+D0307 673
+D0310 670
+D0312 668
+D0314 668
+D0311 663
+D0304 657
+D0313 657
